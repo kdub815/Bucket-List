@@ -1,11 +1,62 @@
-.navbar-nav {
+body {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+#main-nav {
     float:none;
     margin:0 auto;
     display: block;
     text-align: center;
+    color: white;
+}
+
+#login-nav {
+	margin-right: 0;
 }
 
 .navbar-nav > li {
     display: inline-block;
     float:none;
+}
+
+.navbar-nav li a,
+footer li a {
+	color: white;
+}
+
+#myCarousel {
+	margin: 0;
+}
+
+#myCarousel span {
+	background: rgb(247,137,14);
+	background: rgba(247,137,14,0.5);
+	padding: 3px 15px 3px 15px;
+}
+
+.carousel-item img {
+	object-fit: cover;
+	width: 100%;
+}
+
+#about {
+	padding-top: 20px;
+	text-align: center;
+}
+
+#what {
+	min-height: 1000px;
+	background-image: url('img/blue.jpg') no-repeat;
+}
+
+footer {
+	background: #3e4249;
+	color: white;
+	padding: 20px 0 10px;
+	font-size: 12px;
+}
+
+footer li a:hover {
+	color: red;
 }
