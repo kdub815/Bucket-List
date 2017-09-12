@@ -50,6 +50,8 @@ footer li a {
 	background-image: url('img/blue.jpg') no-repeat;
 }
 
+#mapid { height: 500px; }
+
 footer {
 	background: #3e4249;
 	color: white;
