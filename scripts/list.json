@@ -1,0 +1,52 @@
+{
+	"items": [
+		{
+			"name": "Philadelphia Museum of Art",
+			"address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+		},
+		{
+			"name": "Rocky Statue and Rocky Steps",
+			"address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+		},
+		{
+			"name": "Run/walk/bike the Schyukill Trail",
+			"address": "Schuylkill River Trail, Philadelphia, PA 19103"
+		},
+		{
+			"name": "Independence Hall Tour",
+			"address": "520 Chestnut St, Philadelphia, PA 19106"
+		},
+		{
+			"name": "Independence Beer Garden",
+			"address": "100 S Independence Mall W, Philadelphia, PA 19106"
+		},
+		{
+			"name": "Dalessandro's Steaks",
+			"address": "600 Wendover St, Philadelphia, PA 19128"
+		},
+		{
+			"name": "Reading Terminal Market",
+			"address": "51 N 12th St, Philadelphia, PA 19107"
+		},
+		{
+			"name": "Spruce Street Harbor Park",
+			"address": "301 S Christopher Columbus Blvd, Philadelphia, PA 19106"
+		},
+		{
+			"name": "Dim Sum Garden Dumplings",
+			"address": "1020 Race St, Philadelphia, PA 19107"
+		},
+		{
+			"name": "Sampan Happy Hour",
+			"address": "124 S 13th St, Philadelphia, PA 19107"
+		},
+		{
+			"name": "Walk across the Ben Franklin Bridge",
+			"address": "Benjamin Franklin Bridge, Camden, NJ 08102"
+		},
+		{
+			"name": "Philadelphia's Magic Gardens",
+			"address": "1020 South St, Philadelphia, PA 19147"
+		}
+	]
+}
