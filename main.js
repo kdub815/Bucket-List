@@ -23,7 +23,7 @@ var itemsRef = firebase.database().ref('items').once('value').then(function(snap
 		var lng = data[key].google_data[0].geometry.location.lng;
 		var name = data[key].name;
 
-		L.marker([lat, lng]).addTo(map);
+		L.marker([lat, lng]).addTo(map).bindPopup(name).openPopup();
 	}
 });
 
